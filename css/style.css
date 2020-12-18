@@ -1,0 +1,11 @@
+.cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .hover-background-gray:hover {
+    background: gray;
+  }
+
+  .t-f{
+    font-family: 'Turret Road', cursive;
+}
